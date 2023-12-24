@@ -1,1 +1,2 @@
 1. strip_tag();  
+2. str_word_count();
